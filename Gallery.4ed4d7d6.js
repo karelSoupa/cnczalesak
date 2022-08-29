@@ -16,7 +16,7 @@ import{p as n,e as t}from"./chunks/jsxRuntime.module.e52a7d1c.js";import"./chunk
             background: black;
           }
          .fullscreen.visible img {
-           height: 80%;
+           max-height: 80%;
           }
           .prev {
             top:50vh;
